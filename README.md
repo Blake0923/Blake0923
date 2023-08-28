@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there this is my README file 👋
 
 <!--
 **Blake0923/Blake0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi I am Blake Schulte I am an aerospace engineering student at Iowa State planning to graduate in December of 2024.
+I am interested in learning about aerodynamic systems and anything related to aerospace. 
+I have done a Summer/Fall co-op and a Summer intership at Collins Aerospace for systems safety and still working part time for the same role.
+A hobby of mine is watching movies and playing outdoor games.
+
+- 📫 How to reach me: schulte3@iastate.edu
+- 🌱 I’m currently learning the GitHub and Git basics
